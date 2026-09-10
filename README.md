@@ -10,10 +10,6 @@ Uso principalmente **TypeScript, NestJS, React e PostgreSQL**.
 Também trabalho com Go em processamento em lote e com integrações
 entre sistemas, incluindo serviços legados em SOAP.
 
-Minha parte preferida é o backend: modelagem de dados, regras de
-negócio e otimização de consultas. Tenho interesse em aprofundar
-meu trabalho com arquitetura e desempenho de sistemas.
-
 ### Tecnologias
 
 - **Backend:** Node.js, NestJS, Go
