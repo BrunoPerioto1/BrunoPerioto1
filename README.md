@@ -1,37 +1,44 @@
-# Bruno Perioto
+# Olá, sou o Bruno 👋
 
-Desenvolvedor full-stack com foco em backend · Santos-SP
+**Desenvolvedor full-stack com foco em backend** · Santos-SP 🇧🇷
 
-Trabalho na **GBM Tech by nstech**, desenvolvendo uma plataforma de
-gestão logística e portuária. Já entreguei mais de 50 telas, desde
-a modelagem do banco e as APIs até a interface em React.
+Trabalho na **GBM Tech by nstech**, desenvolvendo uma plataforma de gestão logística e portuária. Já entreguei mais de 50 telas, cuidando da modelagem do banco, das APIs e da interface em React.
 
-Uso principalmente **TypeScript, NestJS, React e PostgreSQL**.
-Também trabalho com Go em processamento em lote e com integrações
-entre sistemas, incluindo serviços legados em SOAP.
+Meu foco é backend, principalmente com TypeScript, NestJS e PostgreSQL. Também trabalho com Go em processamento em lote e integrações com sistemas legados. Gosto de trabalhar com modelagem de dados, regras de negócio e desempenho.
 
-### Tecnologias
+## Tecnologias
 
-- **Backend:** Node.js, NestJS, Go
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Dados:** PostgreSQL, Kysely, Prisma
-- **Infra e qualidade:** Docker, AWS, Azure DevOps, Jest, Prometheus e Sentry
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Projetos
+Também uso Docker, AWS, Azure DevOps, Jest, Prometheus e Sentry no dia a dia.
 
-**Sinalize — TCC**  
-Plataforma que conecta pessoas com deficiência auditiva a intérpretes
-de Libras por videochamada. Desenvolvida com React, NestJS,
-PostgreSQL e Jitsi Meet.
+## Projetos
 
-**Plataforma de análise esportiva**  
-Projeto em Node.js e TypeScript para captura e processamento de dados
-em tempo real, com bots e painel web. Roda em AWS EC2 com PM2.
+### Sinalize · TCC
 
-### Formação
+Plataforma que conecta pessoas com deficiência auditiva a intérpretes de Libras por videochamada.
 
-Análise e Desenvolvimento de Sistemas — Fatec Baixada Santista Rubens Lara  
-2024–2026 · Inglês avançado
+**React · NestJS · PostgreSQL · Jitsi Meet**
 
-[LinkedIn](https://www.linkedin.com/in/bruno-perioto/) ·
-[E-mail](mailto:brunzp1934@gmail.com)
+### Plataforma de análise esportiva
+
+Captura e processamento de dados em tempo real, com integração de bots e painel web para gestão de registros.
+
+**Node.js · TypeScript · AWS EC2 · PM2**
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+Fatec Baixada Santista Rubens Lara · 2024–2026
+
+Inglês avançado
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/bruno-perioto/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunzp1934@gmail.com)
