@@ -1,32 +1,41 @@
-## Bruno Zubiolo Perioto
+# Bruno Perioto
 
-**Desenvolvedor Full-Stack com foco em backend** · Santos-SP
+Desenvolvedor full-stack com foco em backend · Santos-SP
 
-Construo e evoluo sistemas em produção onde indisponibilidade custa caro. Na **GBM Tech**, atuo numa
-plataforma SaaS multi-tenant de gestão logística e portuária, cobrindo quatro módulos do produto —
-hidroviário, marítimo, rodoviário e ferroviário. Fui responsável por mais de 50 telas de ponta a ponta:
-modelagem do banco, endpoints REST e a interface em React por cima deles. Gosto da parte sem glamour do
-trabalho — acertar o modelo de dados, decidir o que é regra de negócio e o que é detalhe de entrega, e
-escrever teste para aquilo que realmente quebra.
+Trabalho na **GBM Tech by nstech**, desenvolvendo uma plataforma de
+gestão logística e portuária. Já entreguei mais de 50 telas, desde
+a modelagem do banco e as APIs até a interface em React.
 
-Minha experiência técnica inclui **Go, TypeScript, JavaScript, Node.js, NestJS, React, Vite, Module Federation,
-TanStack Router/Query, Zustand, Tailwind CSS, PostgreSQL (Kysely para queries type-safe, Prisma para
-migrations, Kanel para geração de tipos), Docker e AWS (EC2, PM2)**. Trabalho com Clean Architecture e CQRS,
-autenticação JWT (RS256) com guards e RBAC, integração com serviços legados em SOAP, e otimização de
-processamento em lote com Go para rotinas de alto volume.
+Uso principalmente **TypeScript, NestJS, React e PostgreSQL**.
+Também trabalho com Go em processamento em lote e com integrações
+entre sistemas, incluindo serviços legados em SOAP.
 
-Também atuo com metodologias ágeis (Scrum, Kanban), integração e entrega contínua via Azure DevOps, testes
-automatizados com Jest, observabilidade com Prometheus e Sentry, e versionamento com Git e GitHub. Fora
-disso, uso Python para OCR e automações com Selenium, e já construí agentes de IA com LangChain.
+Minha parte preferida é o backend: modelagem de dados, regras de
+negócio e otimização de consultas. Tenho interesse em aprofundar
+meu trabalho com arquitetura e desempenho de sistemas.
 
-Procuro desafios que me deixem trabalhar mais perto de design de sistemas e da performance de coisas
-rodando em escala.
+### Tecnologias
 
-📍 Santos-SP · 📫 [brunzp1934@gmail.com](mailto:brunzp1934@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/bruno-perioto/)
+- **Backend:** Node.js, NestJS, Go
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Dados:** PostgreSQL, Kysely, Prisma
+- **Infra e qualidade:** Docker, AWS, Azure DevOps, Jest, Prometheus e Sentry
 
----
+### Projetos
+
+**Sinalize — TCC**  
+Plataforma que conecta pessoas com deficiência auditiva a intérpretes
+de Libras por videochamada. Desenvolvida com React, NestJS,
+PostgreSQL e Jitsi Meet.
+
+**Plataforma de análise esportiva**  
+Projeto em Node.js e TypeScript para captura e processamento de dados
+em tempo real, com bots e painel web. Roda em AWS EC2 com PM2.
 
 ### Formação
 
-Análise e Desenvolvimento de Sistemas — **Fatec Baixada Santista Rubens Lara** (2024–2026)
-Inglês avançado
+Análise e Desenvolvimento de Sistemas — Fatec Baixada Santista Rubens Lara  
+2024–2026 · Inglês avançado
+
+[LinkedIn](https://www.linkedin.com/in/bruno-perioto/) ·
+[E-mail](mailto:brunzp1934@gmail.com)
