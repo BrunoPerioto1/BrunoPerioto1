@@ -12,10 +12,11 @@ Meu foco é backend, principalmente com TypeScript, NestJS e PostgreSQL. Também
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Também uso Docker, AWS, Azure DevOps, Jest, Prometheus e Sentry no dia a dia.
+Também uso Python para OCR e automações com Selenium, além de Docker, AWS, Azure DevOps, Jest, Prometheus e Sentry no dia a dia.
 
 ## Projetos
 
