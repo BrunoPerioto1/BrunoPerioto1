@@ -1,4 +1,4 @@
-# Olá, sou o Bruno 👋
+# Olá, sou o Bruno 
 
 **Desenvolvedor full-stack**  · Santos-SP 🇧🇷
 
