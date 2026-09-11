@@ -1,6 +1,6 @@
 # Olá, sou o Bruno 👋
 
-**Desenvolvedor full-stack com foco em backend** · Santos-SP 🇧🇷
+**Desenvolvedor full-stack ** · Santos-SP 🇧🇷
 
 Trabalho na **GBM Tech by nstech**, desenvolvendo uma plataforma de gestão logística e portuária. Já entreguei mais de 50 telas, cuidando da modelagem do banco, das APIs e da interface em React.
 
